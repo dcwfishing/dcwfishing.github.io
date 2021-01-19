@@ -1,0 +1,9 @@
+# CODEOWNERS
+
+# Pull Request
+* @dallasbrooks
+
+# Files
+*.html @dallasbrooks
+js/ @dallasbrooks
+css/ @dallasbrooks
