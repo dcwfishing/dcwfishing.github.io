@@ -1,2 +1,2 @@
-# DCW Fishing Ltd. :fish:
+# DCW Fishing Co. :fish:
 Website :computer:
